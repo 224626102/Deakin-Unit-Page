@@ -15,7 +15,7 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-<div >
- <img src="logo.svg" alt="Deakin" width="200" height="210" >
-</div>
-
+div {
+ background-color: darkcyan;
+ text-align: right;
+}
